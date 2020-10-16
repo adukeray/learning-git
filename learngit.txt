@@ -3,6 +3,7 @@ blue
 green
 yellow
 black
+indigo
 green
 unicorn
 this are the colors of thae rainbowaa
